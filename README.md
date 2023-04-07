@@ -1,7 +1,7 @@
 # CodeLeap React Native App
 
 
-<img src="./src/assets/images/codeleap.png" width="500" height="400" />
+<img src="./src/assets/images/codeleap.png" width="700" height="400" />
 
 
 
